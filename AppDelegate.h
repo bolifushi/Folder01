@@ -1,6 +1,6 @@
 //■ ■ ■ ■ ■
-//  AppDelegate.h
-//  SecondTowTimer
+//■  AppDelegate.h
+//■  SecondTowTimer
 //■ ■ ■
 #import <UIKit/UIKit.h>
 
