@@ -1,6 +1,6 @@
 //■ ■ ■ ■ ■
-//  AppDelegate.m
-//  SecondTowTimer
+//■  AppDelegate.m
+//■  SecondTowTimer
 //■ ■ ■
 #import "AppDelegate.h"
 #import <AudioToolbox/AudioServices.h>
